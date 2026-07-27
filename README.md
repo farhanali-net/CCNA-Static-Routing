@@ -25,7 +25,7 @@ The network consists of two LANs connected through two Cisco routers over a seri
 
 ## Network Topology
 
-> Insert your topology screenshot here.
+<img width="716" height="402" alt="image" src="https://github.com/user-attachments/assets/4c8eb91b-76ab-4637-b503-7cb2066d8177" />
 
 
 ---
