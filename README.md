@@ -37,6 +37,7 @@ The network consists of two LANs connected through two Cisco routers over a seri
 | Cisco Router | 2 |
 | Cisco Switch | 2 |
 | PCs | 2 |
+| Laptops | 2 |
 | Serial Connection | 1 |
 
 ---
