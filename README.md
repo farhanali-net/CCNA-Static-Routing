@@ -49,8 +49,8 @@ The network consists of two LANs connected through two Cisco routers over a seri
 | Device | Interface | IP Address |
 |---------|-----------|------------|
 | Router R1 | G0/0 | 192.168.1.1/24 |
-| PC0 | NIC | 192.168.1.10 |
-| Laptop1 | NIC | 192.168.1.11 |
+| PC0 | NIC | 192.168.1.2 |
+| Laptop1 | NIC | 192.168.1.3 |
 
 ### LAN 2
 
