@@ -50,7 +50,7 @@ The network consists of two LANs connected through two Cisco routers over a seri
 |---------|-----------|------------|
 | Router R0 | Fa0/0 | 192.168.1.1/24 |
 | PC0 | NIC | 192.168.1.2 |
-| Laptop1 | NIC | 192.168.1.3 |
+| Laptop0 | NIC | 192.168.1.3 |
 
 ### LAN 2
 
@@ -58,7 +58,7 @@ The network consists of two LANs connected through two Cisco routers over a seri
 |---------|-----------|------------|
 | Router R1 | Fa0/1 | 192.168.2.1/24 |
 | PC1 | NIC | 192.168.2.2 |
-| Laptop | NIC | 192.168.2.3 |
+| Laptop1 | NIC | 192.168.2.3 |
 
 ### WAN
 
@@ -76,6 +76,7 @@ The network consists of two LANs connected through two Cisco routers over a seri
 - Add routers
 - Add switches
 - Add PCs
+- Add Laptops
 - Connect all devices
 
 ---
