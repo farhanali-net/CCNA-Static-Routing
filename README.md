@@ -154,8 +154,8 @@ CCNA-Static-Routing
 │
 ├── LICENSE
 ├── README.md
-├── Static Routing Configuration in Cisco Packet Tracer.pdf/
-└──  documentation/
+├── Static Routing Configuration in Cisco Packet Tracer.pdf
+└── Static-Routing.pkt
 
 ```
 
