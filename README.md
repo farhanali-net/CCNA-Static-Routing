@@ -153,10 +153,10 @@ Connectivity was verified successfully using:
 CCNA-Static-Routing
 │
 ├── README.md
+├── Static Routing Configuration in Cisco Packet Tracer.pdf/
 ├── packet-tracer/
-├── documentation/
-├── configs/
-└── images/
+└──  documentation/
+
 ```
 
 ---
