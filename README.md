@@ -124,10 +124,13 @@ ip route 192.168.1.0 255.255.255.0 10.0.0.1
 
 Connectivity was verified successfully using:
 
-- PC1 → PC3
-- PC2 → PC4
+- PC0 → PC1
+<img width="586" height="413" alt="image" src="https://github.com/user-attachments/assets/cb346409-104d-4a1b-a7e9-86e7771a9f30" />
 
-Include ping screenshots inside the **images** folder.
+- Laptop0 → Laptop1
+  <img width="597" height="399" alt="image" src="https://github.com/user-attachments/assets/cecd2fbb-dbd3-4d48-93df-c858004b4089" />
+
+
 
 ---
 
