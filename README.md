@@ -152,9 +152,9 @@ Connectivity was verified successfully using:
 ```
 CCNA-Static-Routing
 │
+├── LICENSE
 ├── README.md
 ├── Static Routing Configuration in Cisco Packet Tracer.pdf/
-├── packet-tracer/
 └──  documentation/
 
 ```
