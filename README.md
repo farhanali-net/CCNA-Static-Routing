@@ -106,13 +106,13 @@ no shutdown
 
 ### 4. Configure Static Routing
 
-#### Router R1
+#### Router R0
 
 ```
 ip route 192.168.2.0 255.255.255.0 10.0.0.2
 ```
 
-#### Router R2
+#### Router R1
 
 ```
 ip route 192.168.1.0 255.255.255.0 10.0.0.1
