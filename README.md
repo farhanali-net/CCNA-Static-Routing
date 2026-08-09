@@ -11,7 +11,7 @@ This project demonstrates the implementation of Static Routing using Cisco Packe
 The network consists of two LANs connected through two Cisco routers over a serial WAN link. Static routes are configured manually to enable communication between devices located in different networks.
 
 ---
-
+ 
 ## Objectives
 
 - Design a network topology
