@@ -5,7 +5,7 @@
 ![CCNA](https://img.shields.io/badge/CCNA-Lab-red)
 
 ## Overview 
-  
+
 This project demonstrates the implementation of Static Routing using Cisco Packet Tracer.
 
 The network consists of two LANs connected through two Cisco routers over a serial WAN link. Static routes are configured manually to enable communication between devices located in different networks.
